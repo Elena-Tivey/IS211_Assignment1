@@ -1,5 +1,6 @@
 
 class ListDivideException(Exception):
+    pass
     """A custom exception class will be raised when a list_divide test fails"""
 
 def list_divide(numbers, divide=2):
